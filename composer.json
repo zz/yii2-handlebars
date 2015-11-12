@@ -1,0 +1,19 @@
+{
+    "name":        "e-frank/yii2-handlebars",
+    "description": "Handlebars asset for yii2",
+    "keywords":    ["yii2", "javascript", "handlebars", "asset", "bower"],
+    "type":        "yii2-extension",
+    "license":     "BSD-3-Clause",
+    "authors": [
+        {
+            "name":     "Elmar Frank",
+            "homepage": "http://yii.efrank.at/extension/handlebars"
+        }
+    ],
+    "require": {
+        "bower-asset/handlebars":  "*"
+    },
+    "autoload": {
+        "psr-4": { "x1\\handlebars\\": "" }
+    }
+}
