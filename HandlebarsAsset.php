@@ -15,4 +15,3 @@ class HandlebarsAsset extends \yii\web\AssetBundle
 	public $depends = [
 	];
 }
-?>
