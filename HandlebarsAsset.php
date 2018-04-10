@@ -1,5 +1,5 @@
 <?php
-namespace x1\handlebars;
+namespace easconn\handlebars;
 
 class HandlebarsAsset extends \yii\web\AssetBundle
 {
